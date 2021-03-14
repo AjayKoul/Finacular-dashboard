@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Finacular-dashboard/static/css/main.ca9032be.chunk.css",
+    "main.js": "/Finacular-dashboard/static/js/main.a00458fd.chunk.js",
+    "main.js.map": "/Finacular-dashboard/static/js/main.a00458fd.chunk.js.map",
+    "runtime-main.js": "/Finacular-dashboard/static/js/runtime-main.6236e9a9.js",
+    "runtime-main.js.map": "/Finacular-dashboard/static/js/runtime-main.6236e9a9.js.map",
+    "static/js/2.d6558243.chunk.js": "/Finacular-dashboard/static/js/2.d6558243.chunk.js",
+    "static/js/2.d6558243.chunk.js.map": "/Finacular-dashboard/static/js/2.d6558243.chunk.js.map",
+    "index.html": "/Finacular-dashboard/index.html",
+    "static/css/main.ca9032be.chunk.css.map": "/Finacular-dashboard/static/css/main.ca9032be.chunk.css.map",
+    "static/js/2.d6558243.chunk.js.LICENSE.txt": "/Finacular-dashboard/static/js/2.d6558243.chunk.js.LICENSE.txt",
+    "static/media/CardTwo.de6327f1.png": "/Finacular-dashboard/static/media/CardTwo.de6327f1.png",
+    "static/media/cardOne.e9f782f5.png": "/Finacular-dashboard/static/media/cardOne.e9f782f5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6236e9a9.js",
+    "static/js/2.d6558243.chunk.js",
+    "static/css/main.ca9032be.chunk.css",
+    "static/js/main.a00458fd.chunk.js"
+  ]
+}
